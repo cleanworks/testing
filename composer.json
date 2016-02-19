@@ -1,0 +1,25 @@
+{
+	"name": "clean-works/testing",
+	"version": "0.0.1",
+	"description": "This package consists of files that are regularly used for testing",
+	"keywords": [ ],
+	"license": "MIT",
+	"require" : {
+		"phpunit/phpunit": "@stable"
+  	},
+	"require-dev": {
+		
+	},
+	"autoload": {
+	    "psr-4": {
+		"CleanWorks\\Testing\\": "source/"
+	    }
+  	},
+	"autoload-dev": {
+
+    	},
+	"config": {
+		"preferred-install": "dist"
+	},
+	"minimum-stability": "dev"
+}
