@@ -6,7 +6,8 @@
 	"license": "MIT",
 	"require" : {
 		"phpunit/phpunit": "@stable",
-		"mockery/mockery": "@stable"
+		"mockery/mockery": "@stable",
+		"mikey179/vfsStream" "@stable"
   	},
 	"require-dev": {
 		
