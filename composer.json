@@ -5,7 +5,8 @@
 	"keywords": [ ],
 	"license": "MIT",
 	"require" : {
-		"phpunit/phpunit": "@stable"
+		"phpunit/phpunit": "@stable",
+		"mockery/mockery": "@stable"
   	},
 	"require-dev": {
 		
